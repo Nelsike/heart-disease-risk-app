@@ -2,7 +2,7 @@
 
 Interactive web app for heart disease risk estimation. Wraps a random forest classifier trained on the Cleveland Heart Disease dataset in a [Streamlit](https://streamlit.io/) interface, with [SHAP](https://shap.readthedocs.io/) explanations for each prediction.
 
-**Live demo:** _add Streamlit Community Cloud URL here after deployment_
+(https://joshua-heart-risk.streamlit.app)
 
 ## Why this matters
 
